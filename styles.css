@@ -1,0 +1,25 @@
+header {
+    background: #ebfcf7;
+    text-align: center;
+    padding: 20px;
+    align-items: center;
+    width: 110%;
+    margin: 0;
+    margin-top: -20px;
+    position: absolute;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    margin-top: 0;
+    background-color: #b0fff6;
+    padding-top: 0;
+    box-sizing: border-box;
+    
+}
+
